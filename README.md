@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Ahmed, a Computer Engineering student based in Malaysia.
+I'm Ahmed, a Computer Engineering student based in Egypt.
 
 I'm currently learning AI, reverse engineering, and assembly. Most of my time is spent studying, experimenting with low-level programming, and understanding how software works under the hood.
 
