@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**pwqe1/pwqe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed, a Computer Engineering student based in Malaysia.
 
-Here are some ideas to get you started:
+I'm currently learning AI, reverse engineering, and assembly. Most of my time is spent studying, experimenting with low-level programming, and understanding how software works under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I hope to share projects, experiments, and things I'm currently working on while learning and building new skills.
+
+---
+
+##-- Tools & Tech
+
+- AI & LLMs (Gemini)
+- IDA Pro
+- x64dbg / x32dbg
+- Assembly Language
+- Reverse Engineering
+- Python & C++
+
+---
+
+##-- A Bit About Me
+
+-  I have two turtles
+-  Not a coffee person
+-  Morning person
+-  I like breaking things down and analyzing how they work
+-  Computer Engineering student
