@@ -2,7 +2,7 @@
 
 
 
--- Tools & Tech
+-- Tools
 
 - AI
 - IDA Pro
