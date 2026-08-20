@@ -4,7 +4,7 @@
 
 -- Tools & Tech
 
-- AI & LLMs (Gemini)
+- AI
 - IDA Pro
 - x64dbg / x32dbg
 - Assembly Language
