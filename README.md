@@ -1,6 +1,4 @@
-Computer Engineering student.
-
-- Confident with Python and ML stuff such as:
+-Python and ML
   - Pandas
   - NumPy
   - Scikit-learn
@@ -8,7 +6,7 @@ Computer Engineering student.
   - Matplotlib
   - Standard python lib: Pickle
 
-- Familiar with ML models:
+ -Models:
   - Linear Regression
   - Logistic Regression
   - Decision Trees
@@ -16,16 +14,4 @@ Computer Engineering student.
   - SVM
   - KNN
 
-- Know how to make apps using:
-  - Streamlit
-  - LocalTunnel
 
-- Intermediate in C++
-
-- Know a bit of Assembly
-
-- Interested in Cybersecurity, but haven't progressed much yet
-
-- Completed several certifications from the Google Cybersecurity course
-
-- Certificate from Cisco Networking Academy
