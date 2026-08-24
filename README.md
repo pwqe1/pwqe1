@@ -1,38 +1,31 @@
-Computer Eng. student.
+Computer Engineering student.
 
--Confident with Python and ML libraries such as
-   -Pandas
-   -Numpy
-   -Scikitlearn
-     -Familiar with models such as:
-       -Linear Regression
-       -Logistic Regression
-       -DecisionTree
-       -RFE/feature selection
-       -SVM
-       -KNN
-       
-     
-   -seaborn for graphs
-   -matplotlib
-   -standard python library pickle
+- Confident with Python and ML libraries such as:
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - Seaborn
+  - Matplotlib
+  - Standard python lib: Pickle
 
-   -Know how to make an app using streamlit and localtunnel
-   
-   
+- Familiar with ML models:
+  - Linear Regression
+  - Logistic Regression
+  - Decision Trees
+  - RFE / Feature Selection
+  - SVM
+  - KNN
 
--Intermediate in C++
+- Know how to make apps using:
+  - Streamlit
+  - LocalTunnel
 
+- Intermediate in C++
 
+- Know a bit of Assembly
 
--Know a bit of assembly
+- Interested in Cybersecurity, but haven't progressed much yet
 
--A bit into cybersecurity, havent progressed much
+- Completed several certifications from the Google Cybersecurity course
 
--Few certifications from Google Cybersec course
-
--Holding a certificate from CISCO Networking Academy
-
-
-
-
+- Certificate from Cisco Networking Academy
