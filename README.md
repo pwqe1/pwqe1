@@ -1,6 +1,6 @@
 Computer Engineering student.
 
-- Confident with Python and ML libraries such as:
+- Confident with Python and ML stuff such as:
   - Pandas
   - NumPy
   - Scikit-learn
