@@ -1,15 +1,8 @@
- Computer Engineering student
+Computer Eng. student.
+
+Confident with python and ML libraries. 
+Improving in C++
+Know a bit of assembly
 
 
-
--- Tools
-
-- AI
-- IDA Pro
-- x64dbg / x32dbg
-- Assembly Language
-- Reverse Engineering
-- Python & C++
-
----
 
